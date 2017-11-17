@@ -14,6 +14,7 @@ class PageOneViewController: UIViewController {
     var myName : String = ""
 
     override func viewDidLoad() {
+        // Comentario
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         if myName != "" {

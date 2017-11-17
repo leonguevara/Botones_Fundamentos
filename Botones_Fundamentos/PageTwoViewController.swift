@@ -12,6 +12,7 @@ class PageTwoViewController: UIViewController {
 
     @IBOutlet weak var pageLabel: UILabel!
     var myNumber : Int = 0
+    // Comentario
     
     override func viewDidLoad() {
         super.viewDidLoad()
